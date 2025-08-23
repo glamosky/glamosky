@@ -10,16 +10,6 @@ I'm an aspiring data analyst with a passion for turning data into actionable ins
   - Representative of the university's engineering department on the 2nd AUAP Youth Development Program 2023 in Phuket, Thailand
 - **DTS - Information Technology** - MFI Polytechnic Institute Inc. (2025-Present)
 
-## 💼 Experience
-
-### Intern - Philippine Business for Social Progress (July 2024 - September 2024)
-- Managed and organized around a few hundred purchase orders as a supply chain clerk
-- Practiced accuracy and attention to detail in document handling and logistics
-
-### Search Engine Evaluator - Appen (June 2022 - January 2023)
-- Labeled and categorized over 8,000+ ads for Meta's advertising platforms
-- Evaluated web content relevance, ensuring context-aware annotations and keyword targeting
-
 ## 🛠️ Tech Stack
 
 ### Programming Languages
