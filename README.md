@@ -4,6 +4,10 @@
 
 I'm an aspiring data analyst with a passion for turning data into actionable insights. Currently pursuing Information Technology while building a strong foundation in data analysis, visualization, and programming. Aside from my programming life, I like to write screenplays, trainspot, and travel around Metro Manila.
 
+I’m also an active member of a local **trainspotting community**, where I build **interactive dashboards** to track and visualize riderships and other relevant data I can get from the FOI.  
+Check out [Railfans of the Philippines ](https://www.facebook.com/railfansphilippines) on Facebook. 🚂
+
+
 ## 🎓 Education
 
 - **Bachelor of Science in Industrial Engineering** - Rizal Technological University (2021-2025)
