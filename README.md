@@ -1,5 +1,3 @@
-# Frank Sebastian Cayaco
-
 ## 👋 Hello, I'm Frank!
 
 I'm an aspiring data analyst with a passion for turning data into actionable insights. Currently pursuing Information Technology while building a strong foundation in data analysis, visualization, and programming. Aside from my programming life, I like to write screenplays, trainspot, and travel around Metro Manila.
