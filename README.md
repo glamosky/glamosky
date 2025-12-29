@@ -1,12 +1,12 @@
 # Frank
 
-**Data is just a story waiting to be written.**
+Data becomes meaning.
 
-I am an Industrial Engineering student transitioning into Data Analytics. I build interactive dashboards for the [trainspotting community](https://www.facebook.com/railfansphilippines) and turn raw numbers into actionable stories.
+Industrial Engineering → Data Analytics.  
+Dashboards. Systems. Signals.  
+Numbers arranged until they speak.
 
-### The Stack
-`Python` `SQL` `Tableau` `PostgreSQL` `JavaScript`
+Python · SQL · Tableau · JavaScript
 
-### Connect
-[cayacofranksebastian@gmail.com](mailto:cayacofranksebastian@gmail.com)
-[LinkedIn](https://linkedin.com/in/frank-sebastian-gapas)
+cayacofranksebastian@gmail.com
+https://linkedin.com/in/frank-sebastian-gapas
